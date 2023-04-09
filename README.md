@@ -1,16 +1,30 @@
-### Hi there 👋
+### Hi there 👋😅 :sweat_smile:	
+Ola sou Edson Santana estou estudando HTML CSS e Java script e isso e so um inicio de uma historia de sucesso
+<br>
 
-<!--
-**Edson102023/Edson102023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+">
+- <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)" alt="hyml5-logo" />
+- <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)" alt="css-logo" />
+- <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)" alt="Java script=logo" />
+- <br>
+-<img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
+- 
+- 
+- [![Edson102023](https://github-readme-stats.vercel.app/api?username=Edson102023)](https://github.com/NOMEGIT/github-readme-stats)
+- [![Website lbesson.bitbucket.io](https://img.shields.io/website-up-down-green-red/https/lbesson.bitbucket.io.svg)](https://lbesson.bitbucket.io/)
+![Edson102023 GitHub stats](https://github-readme-stats.vercel.app/api?username=Edson102023_icons=true&theme=radical)
+![Edson102023 stats](https://github-readme-stats.vercel.app/api?username=Edson102023_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ![Edson102023 GitHub stats](https://github-readme-stats.vercel.app/api?username=Edson102023_icons=true&theme=radical)
+
+
+
+
+
+
+
+  
+- 
+
+
